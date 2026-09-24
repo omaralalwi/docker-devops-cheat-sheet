@@ -1,6 +1,6 @@
 # Docker CLI Cheat Sheet & DevOps
 
-A practical Docker quick-reference for Linux, servers, deployments, troubleshooting, Docker Compose, images, volumes, networks, cleanup, and production operations.
+A practical Docker quick-reference, deployments, troubleshooting, Docker Compose, images, volumes, networks, cleanup, and production operations.
 
 > **Copy buttons:** Every command is placed in a fenced code block. GitHub, VS Code, Obsidian, ChatGPT, and many modern Markdown viewers automatically show a **Copy** button for fenced code blocks.
 
