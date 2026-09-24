@@ -1,4 +1,4 @@
-# Docker CLI Cheat Sheet for Linux & DevOps
+# Docker CLI Cheat Sheet & DevOps
 
 A practical Docker quick-reference for Linux, servers, deployments, troubleshooting, Docker Compose, images, volumes, networks, cleanup, and production operations.
 
